@@ -5,7 +5,7 @@ public class Main {
         Shaker shaker = new Shaker();
         //shaker.addDice();
 
-        //MultisidedDice  multidoce = new RegularDice();  //example
+        //MultisidedDice  multidice = new RegularDice();  //example
         while(true) {
             shaker.throwDice();
         }
